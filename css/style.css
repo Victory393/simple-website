@@ -1,0 +1,47 @@
+.header{
+    background-color: none;
+    background-size: cover;
+    text-align: center;
+    max-width: 100vw;
+    max-height: 100%;
+    font-size: xx-large;
+    color: aliceblue;
+}
+.sub-content{
+    text-align:left;
+}
+nav{
+    text-align: center;
+    text-decoration: none;
+    display: inline;
+}
+.content{
+    background-color: #000000;
+    display: block;
+    background-size: cover;
+    text-align: center;
+    font-style: #000000;
+    font-size: xx-large;
+    color: #FFFFFF;
+    height: 100;
+}
+foot{
+    color: #000000;
+    display: inline;
+    font-size: x-large;
+}
+.hlink{
+    background-color: violet;
+    text-align: center;
+    border: solid #ff0000 5px;
+    max-width: 100vw;
+}
+a{
+    text-decoration: none;
+}
+.footer-link{
+    content: ''
+}
+footer{
+    display: block;
+}
